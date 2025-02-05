@@ -3,3 +3,9 @@ YUURI NONAKAYA OMG HINDI NA AKO MAKAHINGA SA TOTOTO LANG
 git checkout -b develop para sa paggawa ng bagong branch
 
 git remote add origin tapos link ng repo
+
+kapag walang -m pwede paragraph malaagay mogit
+
+git config unset
+
+kapag nag another branch ka, different pa un sa main
