@@ -1,3 +1,5 @@
 HELLO EVERYONE!!
 YUURI NONAKAYA OMG HINDI NA AKO MAKAHINGA SA TOTOTO LANG
 git checkout -b develop para sa paggawa ng bagong branch
+
+git remote add origin tapos link ng repo
